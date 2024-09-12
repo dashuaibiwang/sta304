@@ -1,0 +1,22 @@
+body {
+  background-color: #f0f8ff; /* Light blue background */
+}
+
+h1, h2, h3 {
+  color: #2c3e50; /* Dark blue headers */
+  font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+  background-color: #4CAF50; /* Green navigation bar */
+  color: white;
+}
+
+a {
+  color: #e74c3c; /* Red links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
